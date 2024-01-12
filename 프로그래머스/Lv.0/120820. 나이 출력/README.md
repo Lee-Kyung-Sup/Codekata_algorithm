@@ -1,6 +1,6 @@
 # [level Lv.0] 나이 출력 - 120820 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=csharp) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 5일 9:13:37
+2024년 1월 5일 9:15:14
 
 ### 문제 설명
 
