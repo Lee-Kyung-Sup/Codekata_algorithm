@@ -1,8 +1,10 @@
 using System;
 using System.Linq;
 
-public class Solution {
-    public string solution(int[] food) {
+public class Solution 
+{
+    public string solution(int[] food) 
+    {
        string answer = "";
         string str = "";
         
