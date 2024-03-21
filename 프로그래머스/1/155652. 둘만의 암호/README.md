@@ -1,10 +1,10 @@
 # [level 1] 둘만의 암호 - 155652 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=csharp) 
 
 ### 성능 요약
 
-메모리: 30.9 MB, 시간: 0.55 ms
+메모리: 30.7 MB, 시간: 0.56 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 21일 09:18:34
+2024년 03월 21일 09:20:08
 
 ### 문제 설명
 

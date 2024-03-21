@@ -16,11 +16,15 @@ public class Solution
                 temp = (char)(temp + 1);
 
                 if (temp > 'z')
+                {
                     temp = 'a';
-
+                }
+                    
                 if (skip.Contains(temp))
-                    continue;
+                {
+                     continue;
 
+                }         
                 count++;
             }
             answer += temp;
