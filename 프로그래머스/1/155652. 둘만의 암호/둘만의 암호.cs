@@ -23,7 +23,6 @@ public class Solution
                 if (skip.Contains(temp))
                 {
                      continue;
-
                 }         
                 count++;
             }
