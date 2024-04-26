@@ -30,9 +30,15 @@ public class Solution
         }
 
         if (answer.Length == 0)
+        {
             answer = "-1";
+        }
+            
         else if (answer[0] == '0')
-            answer = "0";
+        {
+             answer = "0";
+        }
+           
 
         return answer;
     }
