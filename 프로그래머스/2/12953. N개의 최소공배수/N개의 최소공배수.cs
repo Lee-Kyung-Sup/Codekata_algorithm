@@ -1,4 +1,5 @@
-public class Solution {
+public class Solution 
+{
     public int LCM(int a,int b)
     {
         int n =a;
